@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/jbuast/qr-code-component-main.git)
+- Live Site URL: [Github Page](https://jbuast.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -82,7 +82,7 @@ I want to properly utilize the uses of html and css. I will continue to build mo
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Github Page](https://jbuast.github.io/qr-code-component-main/)
 - Frontend Mentor - [@jbuast](https://www.frontendmentor.io/profile/jbuast)
 
 
